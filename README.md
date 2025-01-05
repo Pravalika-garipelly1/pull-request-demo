@@ -1,2 +1,2 @@
 # pull-request-demo
-Deo for pull request
+Demo for pull request
